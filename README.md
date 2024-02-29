@@ -4,11 +4,11 @@
 
 This project aims to analyze the strength of passwords using various machine learning algorithms. It's designed to help implement a robust defense mechanism against password breaches by ensuring the use of highly secure passwords.
 
-## Objectives
+##Objective
+The primary goal of this software is to analyze and categorize passwords based on their strength. This categorization helps organizations in implementing a multi-layered defense strategy by ensuring that all users have strong passwords, which are less likely to be breached.
 
-- To facilitate the creation of strong passwords that enhance security
-- To provide an easy-to-use tool to assess password strength
-- To leverage machine learning for effective password strength classification
+How It Works
+The software employs several machine learning algorithms to predict the strength of a password. These algorithms have been chosen for their diverse approaches to classification tasks, providing a comprehensive analysis from different perspectives. Here's a brief overview of each:
 
 ## Algorithms Used
 
