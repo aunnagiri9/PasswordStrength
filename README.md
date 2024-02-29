@@ -1,15 +1,24 @@
-# Checking-the-Password-Strength-using-ML
+# Checking the Password Strength using ML
 
-The software that analyzes the strength of the password to facilitate organizations launch a multi-faceted defense
-against password breach and provide a highly secure environment using Machine Learning algorithms such as Naive
-Bayes, Logistic Regression, Random Forest, Neural Network and Decision Tree.
+## Introduction
 
-## Algorithms used
-- Decision Trees
-- Logistic Regression
-- Naive Bayes (Bernoulli Distribution Model)
-- Random Forest
-- Neural Network (MLP Classifier)
+This project aims to analyze the strength of passwords using various machine learning algorithms. It's designed to help implement a robust defense mechanism against password breaches by ensuring the use of highly secure passwords.
+
+## Objectives
+
+- To facilitate the creation of strong passwords that enhance security
+- To provide an easy-to-use tool to assess password strength
+- To leverage machine learning for effective password strength classification
+
+## Algorithms Used
+
+This software employs a suite of machine learning algorithms, each contributing unique strengths to the task of password strength classification:
+
+- **Decision Trees**: Utilizes a tree-like model for decision-making and classification.
+- **Logistic Regression**: Applies a logistic model to categorize passwords into distinct strength levels.
+- **Naive Bayes (Bernoulli Distribution Model)**: Employs Bayes' theorem with a naive independence assumption for feature classification.
+- **Random Forest**: An ensemble method that improves classification accuracy through multiple decision trees.
+- **Neural Network (MLP Classifier)**: Uses a multilayer perceptron model to capture complex patterns and relationships in data.
 
 ## Screenshots
 
